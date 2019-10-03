@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">App IFSudeste</string>
+    <string name="header">Bem vindo ao sistema de alunos</string>
+    <string name="nome">Insira o seu nome</string>
+    <string name="matricula">Insira a matrícula</string>
+    <string name="nota">Insira a nota</string>
+    <string name="verificar">Verificar</string>
+</resources>
+
+
+
+
+
